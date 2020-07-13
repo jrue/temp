@@ -8,7 +8,7 @@ What about images?
 
 Well, to make an image, you need an exclamation point before the link.
 
-![this is an image alt text](https://placekitten.com/300/400)
+![this is an image alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOqRC7dZHfTbJu8mQ5Fgka8t9UfxpvCI1ern_z8VkVnrJW_C-A6APLpbhmHiht54ln87a3gmtdon_K/pubchart?oid=613551051&format=image)
 
 Things I like to do in Berkeley are:
 
